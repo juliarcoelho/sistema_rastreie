@@ -1,0 +1,36 @@
+# database rastreie brasil
+CREATE DATABASE Drive;
+CREATE TABLE Rastreie
+(
+Id INT(11) AUTO_INCREMENT,
+matriz VARCHAR(20) NOT NULL,
+nome VARCHAR(200) NOT NULL,
+placa VARCHAR(7) NOT NULL,
+telefone VARCHAR(11) NOT NULL,
+observacoes VARCHAR(200),
+situacaoSga VARCHAR(13) NOT NULL,
+ultimaTransmissao DATETIME NOT NULL,
+PRIMARY KEY (Id)
+);
+
+CREATE TABLE Melhor
+(
+Id INT(11) AUTO_INCREMENT,
+matriz VARCHAR(20) NOT NULL,
+nome VARCHAR(200) NOT NULL,
+placa VARCHAR(7) NOT NULL,
+telefone VARCHAR(11) NOT NULL,
+observacoes VARCHAR(200),
+situacaoSga VARCHAR(13) NOT NULL,
+ultimaTransmissao DATETIME NOT NULL,
+PRIMARY KEY (Id)
+);
+
+CREATE TABLE Usuario
+(
+Id INT(11) AUTO_INCREMENT,
+nome VARCHAR(200) NOT NULL,
+login VARCHAR(200) NOT NULL,
+senha VARCHAR(11) NOT NULL,
+PRIMARY KEY (Id)
+);

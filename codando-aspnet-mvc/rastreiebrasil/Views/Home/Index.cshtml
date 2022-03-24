@@ -1,0 +1,37 @@
+﻿@model Formulario
+@{
+    ViewData["Title"] = "Cotação";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Quer saber sobre a Rastreie Brasil?</h1>
+    <h2>Sobre a gente</h2>
+    <p> A RASTREIE BRASIL, apresenta uma solução completa em rastreamento veicular. Esta solução tornará a atividade do seu veículo completamente controlada com informações detalhadas ao alcance de um clique, com total autonomia você irá rastrear e monitorar o seu veiculo através de uma plataforma intuitiva e moderna.</p>
+    <h2>Termos de Garantia</h2>
+    <p>
+        O nosso produto está garantido contra qualquer defeito de fabricação, dentro do período vigente do Termo de comodato, a assistência técnica será prestada pela Rastreie Brasil por intermédio de instalador autorizado. Ficando a responsabilidade restrita ao conserto ou a substituição do equipamento, desde que as suas parcelas mensais estejam em dia.<br>
+O sistema é usado por chip, ficando condicionado ao sinal da operadora. Edifícios, terrenos, interferência eletrônica ou, às vezes até mesmo folhagem densa podem bloquear notoriamente a recepção, causando erros de posição ou possivelmente nenhuma leitura de posição.<br>
+Não será responsabilizado por danos ou furto do veículo ou de seus componentes, ou quaisquer danos incidentais ou resultados causados por qualquer falha, ou falha alegada de mal funcionamento do produto, o fabricante ou vendedor.<br>
+Em nenhuma hipótese esta garantia deve ser entendida como garantia ou apólice de seguro contra furto ou roubo.
+    </p>
+    <h2>Quer saber sobre planos e valores? Vem fazer sua cotação!</h2>
+</div>
+<form method="POST" asp-Action="Cotacao">
+
+    <p>
+        <label asp-for="nome">Nome:</label>
+        <input type="text" asp-for="nome" required="required"/>
+    </p>
+    <p>
+        <label asp-for="placa">Placa:</label>
+        <input type="text" asp-for="placa" required="required"/>
+    </p>
+     <p>
+        <label asp-for="telefone">Telefone:</label>
+        <input type="text" asp-for="telefone" required="required"/>
+    </p>
+    
+        <input type="submit" value="Avançar"/>
+    
+
+</form>

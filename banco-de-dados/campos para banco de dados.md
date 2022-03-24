@@ -1,0 +1,20 @@
+# campos para banco de dados
+- matriz
+- cliente
+- placa
+- ultima transmissão
+- telefone
+- tempo na mesma posição
+- bairro
+- cidade
+- uf
+- endereço completo
+- email sga
+- situação sga melhor
+- situação sga rastreie
+- categoria
+- tipo de veículo
+- situação rastreie
+- receber whatsapp
+- classificação
+- observação

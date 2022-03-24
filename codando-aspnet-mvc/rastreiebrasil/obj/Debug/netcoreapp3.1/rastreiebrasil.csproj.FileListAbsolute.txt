@@ -1,0 +1,78 @@
+/Users/ju/Documents/rastreiebrasil/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/ju/Documents/rastreiebrasil/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/ju/Documents/rastreiebrasil/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/ju/Documents/rastreiebrasil/bin/Debug/netcoreapp3.1/rastreiebrasil.deps.json
+/Users/ju/Documents/rastreiebrasil/bin/Debug/netcoreapp3.1/rastreiebrasil.runtimeconfig.json
+/Users/ju/Documents/rastreiebrasil/bin/Debug/netcoreapp3.1/rastreiebrasil.runtimeconfig.dev.json
+/Users/ju/Documents/rastreiebrasil/bin/Debug/netcoreapp3.1/rastreiebrasil.dll
+/Users/ju/Documents/rastreiebrasil/bin/Debug/netcoreapp3.1/rastreiebrasil.pdb
+/Users/ju/Documents/rastreiebrasil/bin/Debug/netcoreapp3.1/rastreiebrasil.Views.dll
+/Users/ju/Documents/rastreiebrasil/bin/Debug/netcoreapp3.1/rastreiebrasil.Views.pdb
+/Users/ju/Documents/rastreiebrasil/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/Users/ju/Documents/rastreiebrasil/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/ju/Documents/rastreiebrasil/obj/Debug/netcoreapp3.1/rastreiebrasil.csprojAssemblyReference.cache
+/Users/ju/Documents/rastreiebrasil/obj/Debug/netcoreapp3.1/rastreiebrasil.AssemblyInfoInputs.cache
+/Users/ju/Documents/rastreiebrasil/obj/Debug/netcoreapp3.1/rastreiebrasil.AssemblyInfo.cs
+/Users/ju/Documents/rastreiebrasil/obj/Debug/netcoreapp3.1/rastreiebrasil.csproj.CoreCompileInputs.cache
+/Users/ju/Documents/rastreiebrasil/obj/Debug/netcoreapp3.1/rastreiebrasil.MvcApplicationPartsAssemblyInfo.cache
+/Users/ju/Documents/rastreiebrasil/obj/Debug/netcoreapp3.1/rastreiebrasil.RazorAssemblyInfo.cache
+/Users/ju/Documents/rastreiebrasil/obj/Debug/netcoreapp3.1/rastreiebrasil.RazorAssemblyInfo.cs
+/Users/ju/Documents/rastreiebrasil/obj/Debug/netcoreapp3.1/rastreiebrasil.TagHelpers.input.cache
+/Users/ju/Documents/rastreiebrasil/obj/Debug/netcoreapp3.1/rastreiebrasil.TagHelpers.output.cache
+/Users/ju/Documents/rastreiebrasil/obj/Debug/netcoreapp3.1/rastreiebrasil.RazorCoreGenerate.cache
+/Users/ju/Documents/rastreiebrasil/obj/Debug/netcoreapp3.1/Razor/Views/Home/Carro.cshtml.g.cs
+/Users/ju/Documents/rastreiebrasil/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/ju/Documents/rastreiebrasil/obj/Debug/netcoreapp3.1/Razor/Views/Home/Moto.cshtml.g.cs
+/Users/ju/Documents/rastreiebrasil/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/ju/Documents/rastreiebrasil/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/ju/Documents/rastreiebrasil/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/ju/Documents/rastreiebrasil/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/ju/Documents/rastreiebrasil/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/ju/Documents/rastreiebrasil/obj/Debug/netcoreapp3.1/rastreiebrasil.RazorTargetAssemblyInfo.cache
+/Users/ju/Documents/rastreiebrasil/obj/Debug/netcoreapp3.1/rastreiebrasil.RazorTargetAssemblyInfo.cs
+/Users/ju/Documents/rastreiebrasil/obj/Debug/netcoreapp3.1/rastreiebrasil.Views.pdb
+/Users/ju/Documents/rastreiebrasil/obj/Debug/netcoreapp3.1/rastreiebrasil.csproj.CopyComplete
+/Users/ju/Documents/rastreiebrasil/obj/Debug/netcoreapp3.1/staticwebassets/rastreiebrasil.StaticWebAssets.Manifest.cache
+/Users/ju/Documents/rastreiebrasil/obj/Debug/netcoreapp3.1/staticwebassets/rastreiebrasil.StaticWebAssets.xml
+/Users/ju/Documents/rastreiebrasil/obj/Debug/netcoreapp3.1/rastreiebrasil.dll
+/Users/ju/Documents/rastreiebrasil/obj/Debug/netcoreapp3.1/rastreiebrasil.pdb
+/Users/ju/Documents/rastreiebrasil/obj/Debug/netcoreapp3.1/rastreiebrasil.genruntimeconfig.cache
+/Users/ju/Documents/rastreiebrasil/obj/Debug/netcoreapp3.1/Razor/Views/Home/Caminhao.cshtml.g.cs
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/obj/Debug/netcoreapp3.1/rastreiebrasil.csprojAssemblyReference.cache
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/obj/Debug/netcoreapp3.1/rastreiebrasil.AssemblyInfoInputs.cache
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/obj/Debug/netcoreapp3.1/rastreiebrasil.AssemblyInfo.cs
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/obj/Debug/netcoreapp3.1/rastreiebrasil.csproj.CoreCompileInputs.cache
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/obj/Debug/netcoreapp3.1/rastreiebrasil.MvcApplicationPartsAssemblyInfo.cache
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/obj/Debug/netcoreapp3.1/rastreiebrasil.RazorAssemblyInfo.cache
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/obj/Debug/netcoreapp3.1/rastreiebrasil.RazorAssemblyInfo.cs
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/obj/Debug/netcoreapp3.1/rastreiebrasil.dll
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/obj/Debug/netcoreapp3.1/rastreiebrasil.pdb
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/bin/Debug/netcoreapp3.1/rastreiebrasil.deps.json
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/bin/Debug/netcoreapp3.1/rastreiebrasil.runtimeconfig.json
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/bin/Debug/netcoreapp3.1/rastreiebrasil.runtimeconfig.dev.json
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/bin/Debug/netcoreapp3.1/rastreiebrasil.dll
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/bin/Debug/netcoreapp3.1/rastreiebrasil.pdb
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/bin/Debug/netcoreapp3.1/rastreiebrasil.Views.dll
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/bin/Debug/netcoreapp3.1/rastreiebrasil.Views.pdb
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/obj/Debug/netcoreapp3.1/rastreiebrasil.TagHelpers.input.cache
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/obj/Debug/netcoreapp3.1/rastreiebrasil.TagHelpers.output.cache
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/obj/Debug/netcoreapp3.1/rastreiebrasil.RazorCoreGenerate.cache
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/obj/Debug/netcoreapp3.1/Razor/Views/Home/Cotacao.cshtml.g.cs
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/obj/Debug/netcoreapp3.1/rastreiebrasil.RazorTargetAssemblyInfo.cache
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/obj/Debug/netcoreapp3.1/rastreiebrasil.RazorTargetAssemblyInfo.cs
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/obj/Debug/netcoreapp3.1/rastreiebrasil.Views.pdb
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/obj/Debug/netcoreapp3.1/rastreiebrasil.csproj.CopyComplete
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/obj/Debug/netcoreapp3.1/staticwebassets/rastreiebrasil.StaticWebAssets.Manifest.cache
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/obj/Debug/netcoreapp3.1/staticwebassets/rastreiebrasil.StaticWebAssets.xml
+/Users/ju/Desktop/PI modulo I/rastreiebrasil/obj/Debug/netcoreapp3.1/rastreiebrasil.genruntimeconfig.cache
